@@ -32,7 +32,6 @@ This is one of my first web development projects, created to practice DOM manipu
 ├── style.css
 └── script.js
 
-yaml
-Copy code
+
 
 
